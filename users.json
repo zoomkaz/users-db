@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$uYEpy5uPM8ka.IbCW3PP0OklQtA28L4ZmXzjbandrhn5BFvhzD4t2",
+      "name": "admin",
+      "admin": true,
+      "id": 1,
+      "userImg": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNCIgZmlsbD0iIzMzMzYzRiIvPg0KPHBhdGggZD0iTTIxIDEyQzIxIDEyIDIwIDQgMTIgNEM0IDQgMyAxMiAzIDEyIiBzdHJva2U9IiMzMzM2M0YiIHN0cm9rZS13aWR0aD0iMiIvPg0KPC9zdmc+"
+    },
+    {
+      "email": "del@mail.ru",
+      "password": "$2a$10$49kg9PzJ4xt6DtmGhOZhzOn2mh7rfTs6/4b6gIKZ8yLjAQqO1PDWC",
+      "id": 2,
+      "name": "deldel",
+      "admin": false,
+      "userImg": ""
+    },
+    {
+      "email": "long@long.com",
+      "password": "$2a$10$huLU5/Gwxocn.3nqkbKJ5.7LKV.VtSrnFwyyLEEGlmHv9LuMXzAma",
+      "id": 3,
+      "name": "long name",
+      "admin": false,
+      "userImg": ""
+    },
+    {
+      "email": "a@a.aa",
+      "password": "$2a$10$EUCQ8E/Dqm6fR//SXp/NhexTiV9f.bSsns5cB1J8vCYuAqKvDGLWu",
+      "id": 4,
+      "name": "aaaa",
+      "admin": false,
+      "userImg": ""
+    }
+  ]
+}
